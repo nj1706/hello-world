@@ -10,4 +10,5 @@ This is my first edit
 ##### Header 5
 ###### Header 6
 
-[*] First Check
+- [ ] First Check
+- [x] Done this
